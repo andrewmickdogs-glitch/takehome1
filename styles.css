@@ -1,0 +1,44 @@
+/*
+Name: Andrew Joseph Micklos
+Document Description: CPSC 307 Take-Home Assignment 1
+*/
+
+h1 {
+    color: black;
+    background-color: white;
+    font-family: "Brush Script MT", cursive;
+    text-decoration: underline overline;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ol ol {
+    list-style-type: upper-alpha;
+}
+
+ol ol ol {
+    list-style-type: decimal;
+}
+
+.compact {
+    color: darkslategray;
+    font-weight: bold;
+    font-family: "Courier New";
+}
+
+.midsize {
+    color: blue;
+    font-family: serif;
+}
+
+.sports {
+    color: red;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: lightcyan;
+}
